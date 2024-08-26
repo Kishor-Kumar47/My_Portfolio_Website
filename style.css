@@ -47,11 +47,11 @@ section {
 }
 
 .logo{
-    font-size: 2.5rem;
+    /* font-size: 2.5rem;
     color: var(--text-color);
     font-weight: 600;
-    cursor: default;
-    margin-right: 40rem;
+    cursor: default; */
+    margin-left: -44rem;    
    
 }
 
@@ -185,6 +185,7 @@ button:nth-child(2):hover{
     border-radius: .5rem; 
     cursor: pointer;
     transition: .5s ease;
+    color: #fff;
      
 }
 
@@ -289,7 +290,7 @@ button:nth-child(2):hover{
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient( rgba(0, 0, 0, .1)  , #3b9705 );
+    background: linear-gradient( rgba(0, 0, 0, .1)  , #070f01 );
     display: flex;
     justify-content: center;
     align-items: center;
